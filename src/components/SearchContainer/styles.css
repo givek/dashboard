@@ -1,0 +1,26 @@
+.search-section {
+  padding: 48px 56px;
+  max-width: 70%;
+}
+
+.search-section-header {
+  margin-bottom: 18px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.search-result-container {
+  /* border: 1px solid red; */
+  /* height: 300px; */
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 56px;
+}
+
+.loading-container {
+  font-size: 24px;
+  font-weight: 700;
+}
